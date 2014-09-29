@@ -5,4 +5,22 @@ Este proyecto tiene como objetivo desarrollar e implementar un invernadero de 1m
 
 <em><strong>APORTES PARA LA CUARTA REVOLUCION VERDE:</strong> Softaware y Hardware libre para una sociedad libre.</em>
 
-Desde consola
+    Nombre del proyecto: Revolución Verde Etnosoft
+___________________________
+    Descripción del proyecto
+_____________________________
+
+    Información sobre la licencia o enlace a la licencia
+________________________________________________________
+
+    Prerequisitos
+_________________
+
+    Instrucciones para instalar, configurar, o ejecutar el programa
+_______________________________________________________
+
+    Lista de autores
+____________________
+
+    Información de contacto
+___________________________
