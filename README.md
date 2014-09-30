@@ -13,10 +13,10 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Objetivos ###
 
-*Implementar un sistema de acceso electromecánico que pueda ser utilizado facilmente como sistema de seguridad para nuestro invernadero
-*Construir un sistema fotovoltaico como fuente para alimentar la circuitería electrónica del invernadero
-*Generar una interfaz web sencilla que muestre información de los condiciones ambientales al interior del invernadero con accionamiento on/off de elementos de control
-*Emplear unica y exclusivamente herramientas de software libre para el desarrollo del proyecto
+* Implementar un sistema de acceso electromecánico que pueda ser utilizado facilmente como sistema de seguridad para nuestro invernadero
+* Construir un sistema fotovoltaico como fuente para alimentar la circuitería electrónica del invernadero
+* Generar una interfaz web sencilla que muestre información de los condiciones ambientales al interior del invernadero con accionamiento on/off de elementos de control
+* Emplear unica y exclusivamente herramientas de software libre para el desarrollo del proyecto
 
 ### Requisitos ###
 
