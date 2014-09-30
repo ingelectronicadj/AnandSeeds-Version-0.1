@@ -1,6 +1,6 @@
 # Soberania Alimentaria
 
-<center><em><strong>APORTES PARA LA CUARTA REVOLUCION VERDE:</strong> Softaware y Hardware libre para una sociedad libre.</em></center>
+<p align="center"><em><strong>APORTES PARA LA CUARTA REVOLUCION VERDE:</strong> Softaware y Hardware libre para una sociedad libre.</em></p>
 
 ### Nombre del proyecto: Revolución Verde Etnosoft ###
 
