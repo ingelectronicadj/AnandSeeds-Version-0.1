@@ -20,7 +20,7 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Materiales ###
 ![Energia LaunchPad](http://energia.nu/img/LaunchPadMSP430G2452-v1.5.jpg "MSP-EXP430G2 LaunchPad")
-
+![Arduino](http://arduino-info.wikispaces.com/file/view/Mega2560_R3_Label-small-v2%20(2).png/471429496/800x526/Mega2560_R3_Label-small-v2%20(2).png "Arduino Mega")
 
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
