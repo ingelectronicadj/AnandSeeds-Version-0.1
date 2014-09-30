@@ -30,11 +30,9 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Información de contacto ###
 
-Desarrollador: Diego Javier Mena Amado
-Est. Ingenieria Electrónica de la Universidad Distrital FJC
-Movil: 3133067541
-Facebook: Diego Javier Brown 
-Twitter: @ DiegoJavierMena
-Linkedin: Diego Javier Mena Amado
-
-Camilin donde estas?
+Desarrollador: Diego Javier Mena Amado  
+Est. Ingenieria Electrónica de la Universidad Distrital FJC  
+Movil: 3133067541  
+Facebook: Diego Javier Brown   
+Twitter: @ DiegoJavierMena  
+Linkedin: Diego Javier Mena Amado  
