@@ -23,16 +23,16 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 ![Arduino](http://arduino-info.wikispaces.com/file/view/Mega2560_R3_Label-small-v2%20(2).png/471429496/800x526/Mega2560_R3_Label-small-v2%20(2).png "Arduino Mega")
 
 1. Circuito fotovoltaico  
-* MSP-EXP430G2 LaunchPad  
-* 2 Fotoresistencias  
-* Celdas solares 12V 200mAh  
-*  Bateria Recargable  
-* Servomotores  
-* 3 Diodos 1N4007  
-* 3 Capacitores cerámicos de 0.1uF  
-* Regulador LM317  
-* Regulador LM7805  
-* Triac de 100 ohmios  
+ * MSP-EXP430G2 LaunchPad  
+ * 2 Fotoresistencias  
+ * Celdas solares 12V 200mAh  
+ *  Bateria Recargable  
+ * Servomotores  
+ * 3 Diodos 1N4007  
+ * 3 Capacitores cerámicos de 0.1uF  
+ * Regulador LM317  
+ * Regulador LM7805  
+ * Triac de 100 ohmios  
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
 
