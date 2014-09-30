@@ -18,7 +18,9 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 * Generar una interfaz web sencilla que muestre información de los condiciones ambientales al interior del invernadero con accionamiento on/off de elementos de control
 * Emplear unica y exclusivamente herramientas de software libre para el desarrollo del proyecto
 
-### Requisitos ###
+### Materiales ###
+![Markdown](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&docid=CN2SBsEBrVr3gM&tbnid=K5QJNHxt22iEpM:&ved=0CAcQjRw&url=http%3A%2F%2Fenergia.nu%2FGuide_MSP430LaunchPad.html&ei=fy8qVNnLJpfGsQSS6YHYBg&bvm=bv.76477589,d.cWc&psig=AFQjCNHffY3ej_UC6i8oTt4WhslKf25u-Q&ust=1412137211679239)
+
 
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
