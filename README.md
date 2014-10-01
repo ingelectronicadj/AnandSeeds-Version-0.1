@@ -36,6 +36,17 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
 
+### Componentes de hardware ###
+
+El hardware necesario para el seguimiento de esta serie de tutoriales es:
+
+ * Una placa Arduino como el Arduino Uno
+ * Un escudo Arduino Ethernet
+ * Un cable Ethernet, cable para conectar directamente a su router de red
+ * Un cable USB para alimentar y programar el Arduino
+ * Una tarjeta micro SD, por ejemplo, una tarjeta de 2 GB que es compatible SPI - sólo es necesario para algunos de los servidores
+ * Una computadora con una ranura de tarjeta micro SD o un lector de tarjetas con una ranura para tarjeta micro SD - sólo se requiere
+    para los servidores de la tarjeta SD
 
 ### Lista de autores ###
 
@@ -43,14 +54,14 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Información de contacto ###
 
-Desarrollador: Diego Javier Mena Amado  
+* Desarrollador: Diego Javier Mena Amado  
 Est. Ingenieria Electrónica de la Universidad Distrital FJC  
 Movil: 3133067541  
 Facebook: Diego Javier Brown   
 Twitter: @ DiegoJavierMena  
 Linkedin: Diego Javier Mena Amado  
 
-Desarrollador: Ivan Camilo Ruiz Mongui  
+* Desarrollador: Ivan Camilo Ruiz Mongui    
 Est. Ingenieria Electrónica de la Universidad Distrital FJC  
 Movil: 3209025813  
 Facebook:  Ivan Camilo Ruiz  
