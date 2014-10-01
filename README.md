@@ -49,3 +49,10 @@ Movil: 3133067541
 Facebook: Diego Javier Brown   
 Twitter: @ DiegoJavierMena  
 Linkedin: Diego Javier Mena Amado  
+
+Desarrollador: Ivan Camilo Ruiz Mongui
+Est. Ingenieria Electrónica de la Universidad Distrital FJC
+Movil: 3209025813
+Facebook:  Ivan Camilo Ruiz
+
+
