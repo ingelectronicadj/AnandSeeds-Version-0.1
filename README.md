@@ -54,12 +54,40 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
 
-### Instalación IDE arduino ###  
+### Instalación IDE arduino   
 
 El entorno de código abierto Arduino hace fácil escribir código y subirlo a la tarjeta. Se ejecuta en Windows, Mac OS X y Linux. El   
 entorno está escrito en Java y basado en Processing, avr-gcc, y otro software de código abierto.  
 Al descargar el software desde esta página, usted está de acuerdo con los términos especificados. Esta página contiene los enlaces 
 de descarga en el último entorno de Arduino de desarrollo integrado (IDE) de software, notas de liberación, y software adicional que no se incluyen con el IDE
+
+### Notas de instalación ###
+
+Se debe descargar la libreria keypad.zip del siguiente enlace   
+
+ * http://playground.arduino.cc/uploads/Code/keypad.zip
+Ponga la carpeta del teclado en "arduino \ bibliotecas \". En el Arduino IDE, cree un nuevo dibujo (o uno abierto) y seleccione desde el menú de "Sketch -> Importar biblioteca -> Teclado". Una vez que la biblioteca es importado, aparecerá un "# include <Keypad.h>" línea en la parte superior de su Sketch.  
+
+Para utilizar la librería Ethernet.h se debe configurar la IP de acuerdo a su red  
+
+Determinar el rango de direcciones IP  
+
+El rango de direcciones que el PC está utilizando debe ser determinado. El Arduino entonces se le asigna una dirección dentro de este rango que permitirá un navegador web en el PC para conectarse al servidor web Arduino.
+### windows 7 ###
+
+En Windows 7, haga clic en el icono de acceso a Internet en la barra inferior de Windows. Es posible que primero deba hacer clic en la pequeña "flecha hacia arriba" para el icono de la red que se muestra .  
+
+Después de hacer clic en el icono de acceso a Internet, haga clic en Abrir redes y recursos compartidos en el cuadro que aparece.  
+
+Ahora haga clic en Conexión de área local y, a continuación detalles ... en el cuadro de diálogo que aparece.  
+
+En el cuadro de diálogo Conexión de red Detalles que aparece, la dirección IP de la PC se puede encontrar al lado de direcciones IPv4.  
+### Linux ###
+
+Para encontrar la dirección IP de un ordenador Linux, escriba lo siguiente en la línea de comandos:  
+
+### ifconfig | grep "inet addr" ###
+
 
 ### Resultados propuestos ###
 
@@ -75,6 +103,10 @@ Generar una interfaz web para monitorizar los distintos factores climáticos des
 La idea es mantener la mejor alineación posible entre el panel solar (celula fotovoltaica) y la dirección en que viaja la radiación del sol, de esta manera se logra generar la mayor cantidad de energía eléctrica la cual se almacenara en una batería, esta batería en horas de la noche alimentara el cableado eléctrico de focos, iluminando el lugar.
 
 
+
+### Historial de versiones ###
+
+1,0 Liberado en Octubre del 2014
 
 
 ### Información de contacto ###
