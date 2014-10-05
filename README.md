@@ -58,9 +58,8 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 El entorno de código abierto Arduino hace fácil escribir código y subirlo a la tarjeta. Se ejecuta en Windows, Mac OS X y Linux. El   
 entorno está escrito en Java y basado en Processing, avr-gcc, y otro software de código abierto.  
-Al descargar el software desde esta página, usted está de acuerdo con los términos especificados. Esta página contiene los enlaces   
-de descarga en el último entorno de Arduino de desarrollo integrado (IDE) de software, notas de liberación, y software adicional   
-que no se incluyen con el IDE
+Al descargar el software desde esta página, usted está de acuerdo con los términos especificados. Esta página contiene los enlaces 
+de descarga en el último entorno de Arduino de desarrollo integrado (IDE) de software, notas de liberación, y software adicional que no se incluyen con el IDE
 
 ### Lista de autores ###
 
