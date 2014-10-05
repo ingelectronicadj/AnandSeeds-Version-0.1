@@ -22,7 +22,14 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 ![Energia LaunchPad](http://energia.nu/img/LaunchPadMSP430G2452-v1.5.jpg "MSP-EXP430G2 LaunchPad")
 ![Arduino](http://arduino-info.wikispaces.com/file/view/Mega2560_R3_Label-small-v2%20(2).png/471429496/800x526/Mega2560_R3_Label-small-v2%20(2).png "Arduino Mega")
 
-1. Circuito fotovoltaico  
+1.Acceso electromecánico:
+ * Microcontrolador Atmega328  
+ * Programador arduino UNO  
+ * Pantalla LCD 16x2  
+ * Teclado 4x3  
+ * Vaquela  
+
+2. Circuito fotovoltaico  
  * MSP-EXP430G2 LaunchPad  
  * 2 Fotoresistencias  
  * Celdas solares 12V 200mAh  
@@ -34,11 +41,7 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
  * Regulador LM7805  
  * Triac de 100 ohmios  
 
-### Instrucciones para instalar, configurar, o ejecutar el programa ###
-
-### Componentes de hardware ###
-
-El hardware necesario para el seguimiento de esta serie de tutoriales es:
+3. Invernadero monitoreo web
 
  * Una placa Arduino como el Arduino Uno
  * Un escudo Arduino Ethernet
@@ -47,6 +50,12 @@ El hardware necesario para el seguimiento de esta serie de tutoriales es:
  * Una tarjeta micro SD, por ejemplo, una tarjeta de 2 GB que es compatible SPI - sólo es necesario para algunos de los servidores
  * Una computadora con una ranura de tarjeta micro SD o un lector de tarjetas con una ranura para tarjeta micro SD - sólo se requiere
     para los servidores de la tarjeta SD
+
+
+### Instrucciones para instalar, configurar, o ejecutar el programa ###
+
+ ### Instalación IDE arduino ###  
+
 
 ### Lista de autores ###
 
