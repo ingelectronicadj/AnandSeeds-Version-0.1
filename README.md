@@ -22,7 +22,7 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 ![Energia LaunchPad](http://energia.nu/img/LaunchPadMSP430G2452-v1.5.jpg "MSP-EXP430G2 LaunchPad")
 ![Arduino](http://arduino-info.wikispaces.com/file/view/Mega2560_R3_Label-small-v2%20(2).png/471429496/800x526/Mega2560_R3_Label-small-v2%20(2).png "Arduino Mega")
 
-1.Acceso electromecánico:
+1. Acceso electromecánico:
  * Microcontrolador Atmega328  
  * Programador arduino UNO  
  * Pantalla LCD 16x2  
@@ -54,8 +54,13 @@ Ademas, se utilizara un sistema fotovoltaico que alimente los circuitos eléctri
 
 ### Instrucciones para instalar, configurar, o ejecutar el programa ###
 
- ### Instalación IDE arduino ###  
+### Instalación IDE arduino ###  
 
+El entorno de código abierto Arduino hace fácil escribir código y subirlo a la tarjeta. Se ejecuta en Windows, Mac OS X y Linux. El   
+entorno está escrito en Java y basado en Processing, avr-gcc, y otro software de código abierto.  
+Al descargar el software desde esta página, usted está de acuerdo con los términos especificados. Esta página contiene los enlaces   
+de descarga en el último entorno de Arduino de desarrollo integrado (IDE) de software, notas de liberación, y software adicional   
+que no se incluyen con el IDE
 
 ### Lista de autores ###
 
