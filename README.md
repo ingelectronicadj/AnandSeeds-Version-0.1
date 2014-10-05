@@ -61,7 +61,19 @@ entorno está escrito en Java y basado en Processing, avr-gcc, y otro software d
 Al descargar el software desde esta página, usted está de acuerdo con los términos especificados. Esta página contiene los enlaces 
 de descarga en el último entorno de Arduino de desarrollo integrado (IDE) de software, notas de liberación, y software adicional que no se incluyen con el IDE
 
-### Lista de autores ###
+### Resultados propuestos ###
+
+### Proyecto De Acceso Codificado ###
+
+Desarrollar un mecanismo de acceso que permita el ingreso al personal autorizado al invernadero por medio de un contraseña  de 4 dígitos
+
+### Proyecto Monitoreo Ambiente En Aplicaciones Web ###
+     
+Generar una interfaz web para monitorizar los distintos factores climáticos desde un  ordenador o dispositivo móvil que permita el cultivador mayores garantías en cuanto al cuidado y producción del cultivo.
+
+### Proyecto Energía ###
+La idea es mantener la mejor alineación posible entre el panel solar (celula fotovoltaica) y la dirección en que viaja la radiación del sol, de esta manera se logra generar la mayor cantidad de energía eléctrica la cual se almacenara en una batería, esta batería en horas de la noche alimentara el cableado eléctrico de focos, iluminando el lugar.
+
 
 
 
